@@ -1,6 +1,8 @@
 # 👋 ¡Hola mundo! Soy Jorge
 
-🎲 Friki de pura cepa | 📖 Jugador de rol, de juegos de mesa, de ordenador, de la vida en general... y tengo el ¿talento? de que soy un paquete en todas esas facetas | 💻 Desarrollador web en construcción
+🎲 Friki de pura cepa 
+📖 Jugador de rol, de juegos de mesa, de ordenador, de la vida en general... y tengo el ¿talento? de que soy un paquete en todas esas facetas 
+💻 Desarrollador web en construcción
 ☕ Amante del café, los dados, los memes frikis y los commits con mensajes crípticos (pese a haber aprendido esta semana lo que es un commit 😅).
 
 ---
