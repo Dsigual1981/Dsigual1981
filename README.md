@@ -8,7 +8,7 @@
 ## ❓ ¿Quién soy?
 
 Estudiante de **DAW**, fan de los juegos de rol como **Vampiro**, **La Leyenda de los 5 Anillos** y **Pathfinder** entre otros.  
-Trabajo organizando cluedos en vivo, así que si ves mi código y está "mal", probablemente no lo hayas entendido y forme parte de un complejísimo acertijo... o lo hizo un mago :troll:
+Trabajo organizando cluedos en vivo, así que si ves mi código y está "mal", probablemente no lo hayas entendido y forme parte de un complejísimo acertijo... o lo hizo un mago 😜
 
 ---
 
